@@ -1,0 +1,5 @@
+{"level":"\u001b[35mDEBUG\u001b[0m","time":"2022-06-06T14:00:24Z","message":"Processing","CountryId":"1","CountryName":"United States"}
+{"level":"\u001b[35mDEBUG\u001b[0m","time":"2022-06-06T14:00:24Z","message":"Page 0"}
+{"level":"\u001b[35mDEBUG\u001b[0m","time":"2022-06-06T14:00:24Z","message":"fetching data"}
+{"level":"\u001b[35mDEBUG\u001b[0m","time":"2022-06-06T14:00:26Z","message":"Found 50 entries"}
+{"level":"\u001b[31mERROR\u001b[0m","time":"2022-06-06T14:00:26Z","message":"no entry was added"}
